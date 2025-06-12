@@ -27,7 +27,7 @@ The model is trained solely on ECG signals using HRV and EDR features with an LS
 
 The following public datasets are used:
 - [MIT-BIH Polysomnographic Database](https://physionet.org/content/slpdb/1.0.0/)
-- [Nationwide Children’s Hospital Sleep DataBank (NCHSDB)](https://physionet.org/content/nch-sleep/1.0.0/)
+- [Nationwide Children’s Hospital Sleep DataBank (NCHSDB)](https://physionet.org/content/nch-sleep/3.1.0/)
 - [Cleveland Family Study (CFS)](https://sleepdata.org/datasets/cfs)
 
 > Due to licensing, raw data is not included. Please refer to the links above.
