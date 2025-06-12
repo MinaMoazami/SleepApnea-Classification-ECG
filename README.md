@@ -20,7 +20,6 @@ The model is trained solely on ECG signals using HRV and EDR features with an LS
 
 - `notebooks/`: Jupyter Notebooks for data preprocessing, feature extraction, and model training
 - `thesis/`: Final PDF of the thesis
-- `data/`: Instructions for dataset access (MIT-BIH, NCHSDB, CFS)
 - `models/`: Optionally include saved models or logs here
 
 ## 🧪 Datasets
